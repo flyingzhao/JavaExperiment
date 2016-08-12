@@ -1,2 +1,2 @@
 # JavaExperiment
-Some experiment to confirm new technology
+Some experiments to confirm new technology
